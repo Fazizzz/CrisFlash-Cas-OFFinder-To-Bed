@@ -31,7 +31,7 @@ ________________________________________________________
 _______________________________________________________ 
 ## Usage
 
-This script was written to be used with [https://github.com/crisflash/crisflash](Crisflash) run with the -C option but may be used with any file with the Cas-OFFinder format. 
+This script was written to be used with (https://github.com/crisflash/crisflash)[Crisflash] run with the -C option but may be used with any file with the Cas-OFFinder format. 
 
 ```
 crisflash -g {Sample-genome.fa} -s {Candidate-sequences.fa} -p {PAM} -m {mismatches} -C -t {threads} -o {output}
@@ -125,9 +125,9 @@ ___________________________________________________________
 
 * **M.Faizan Khalid** - *Author and current maintainer of the code*
 
-This script was developed by Muhammad Faizan Khalid without input or feedback from the [https://github.com/crisflash/crisflash](Crisflash) team. The script is intended to be a utility for use in CRISPR guide design and analysis. Maintainance and usage of this script is currently not supported or advised by the developers of Crisflash. For any information on Crisflash or the Cas-OFFinder format please refer to the [https://github.com/crisflash/crisflash](Crisflash) Github and use their guide for citation and referenceing their tools.
+This script was developed by Muhammad Faizan Khalid without input or feedback from the (https://github.com/crisflash/crisflash)[Crisflash] team. The script is intended to be a utility for use in CRISPR guide design and analysis. Maintainance and usage of this script is currently not supported or advised by the developers of Crisflash. For any information on Crisflash or the Cas-OFFinder format please refer to the (https://github.com/crisflash/crisflash)[Crisflash] Github and use their guide for citation and referenceing their tools.
   
-For citing this tool, please use Khalid M.Faizan or Khalid MF. You can follow my research on my [https://scholar.google.com/citations?hl=en&user=qFZQ5wYAAAAJ&sortby=title&view_op=list_works&gmla=AL3_zigRWGX9g8Jc22idbBUMFuy7cVN_pEIyL6_DXSA-qWkJbcaONzhRNSmAwmQXKEm-3-WYGouZZC2pCE6zD9tZLxizbM7jQzzZMOgtkgsuL825u4lvSs9kwsccajhJbBg2Mrc37at_HCQ](Google Scholar profile).
+For citing this tool, please use Khalid M.Faizan or Khalid MF. You can follow my research on my (https://scholar.google.com/citations?hl=en&user=qFZQ5wYAAAAJ&sortby=title&view_op=list_works&gmla=AL3_zigRWGX9g8Jc22idbBUMFuy7cVN_pEIyL6_DXSA-qWkJbcaONzhRNSmAwmQXKEm-3-WYGouZZC2pCE6zD9tZLxizbM7jQzzZMOgtkgsuL825u4lvSs9kwsccajhJbBg2Mrc37at_HCQ)[Google Scholar profile].
 
 This project is made possible thanks to the open-source bioinformatics community for their resources and support.
 
