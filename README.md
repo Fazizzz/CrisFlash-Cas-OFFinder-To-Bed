@@ -18,8 +18,8 @@ _______________________________________________________
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
+git clone https://github.com/Fazizzz/CrisFlash-Cas-OFFinder-To-Bed.git
+cd CrisFlash-Cas-OFFinder-To-Bed
 ```
 ________________________________________________________
 ## Requirements
